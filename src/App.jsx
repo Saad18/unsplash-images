@@ -1,9 +1,15 @@
+import Galary from "./Galary"
+import SearchForm from "./SearchForm"
+import ThemeToggle from "./ThemeToggle"
+
 function App() {
  
 
   return (
     <>
-      <div><p>Unsplash Images</p></div>
+        <ThemeToggle />
+        <SearchForm />
+        <Galary />
     </>
   )
 }
