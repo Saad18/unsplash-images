@@ -28,9 +28,7 @@ I signed up for an account with Unsplash to incorporate their API into my applic
 [Unsplash Website](https://unsplash.com/)
 
 #### Install and Setup React Query 
-I installed and set up React Query to effectively handle API requests for fetching images from the Unsplash API. This integration allows to efficiently manage and retrieve images within React application using the capabilities provided by React Query.
-
- [react-query installation](https://tanstack.com/query/latest/docs/react/installation)
+I installed and set up React Query to effectively handle API requests for fetching images from the Unsplash API. This integration allows to efficiently manage and retrieve images within React application using the capabilities provided by React Query. [react-query installation](https://tanstack.com/query/latest/docs/react/installation)
 
 #### The challenge that I faced and learned
 - Api Handling with axios and react-query
