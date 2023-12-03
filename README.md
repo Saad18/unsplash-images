@@ -32,6 +32,6 @@ I installed and set up React Query to effectively handle API requests for fetchi
 
 #### The challenge that I faced and learned
 - Api Handling with axios and react-query
-- use of react-query devtoop
+- use of react-query devtool
 - dark mode setup
 - SignIn as developer in unsplash and api handling
