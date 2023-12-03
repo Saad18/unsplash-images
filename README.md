@@ -35,3 +35,4 @@ I installed and set up React Query to effectively handle API requests for fetchi
 - use of react-query devtool
 - dark mode setup
 - SignIn as developer in unsplash and api handling
+- .evn file setup and uses
